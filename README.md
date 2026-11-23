@@ -1,3 +1,11 @@
+## 🚀 Como Utilizar nos seus Projetos Pessoais
+
+### Como Submódulo Git (Recomendado)
+Para vincular a skill a qualquer novo projeto e receber atualizações automáticas:
+```bash
+git submodule add https://github.com/marquesbelem/camis-game-dev-setup-web-game-skill.git .agent/skills/setup-web-game
+```
+
 # Informações para gerar a Skill de Setup Web Game
 
 A Skill tem como objetivo preparar um projeto seguindo as informações abaixo. 
